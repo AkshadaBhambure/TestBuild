@@ -10,6 +10,7 @@ namespace TestBuild
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("TestBuild Project");
         }
     }
 }
